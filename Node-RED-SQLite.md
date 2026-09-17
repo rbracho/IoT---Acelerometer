@@ -1,8 +1,8 @@
 
 # Node-RED Workflow, SQLite & CSV Export / Node-RED-Workflow, SQLite & CSV-Export / Flujo de Node-RED, SQLite y Exportación CSV
 
-| [Arquitectura-Red](./Arquitectura-Red) | [Firmware-ESP32](./Firmware-ESP32) | [README](./README) |
-| :------------------------------------: | :--------------------------------: | ------------------ |
+| [Arquitectura-Red](./Arquitectura-Red.md) | [Firmware-ESP32](./Firmware-ESP32.md) | [README](./README.md) |
+| :---------------------------------------: | :-----------------------------------: | --------------------- |
 
 ## English
 

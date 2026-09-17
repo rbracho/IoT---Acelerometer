@@ -1,7 +1,7 @@
 # Network Architecture & Firewall / Netzwerkarchitektur & Firewall / Arquitectura de Red y Firewall
 
-| [Firmware-ESP32](Firmware-ESP32) | [Node-RED-SQLite](Node-RED-SQLite) | [README](README) |
-| :------------------------------: | :--------------------------------: | ---------------- |
+| [Firmware-ESP32](./Firmware-ESP32.md) | [Node-RED-SQLite](./Node-RED-SQLite.md) | [README](./README.md) |
+| :-----------------------------------: | :-------------------------------------: | --------------------- |
 
 ## English
 
