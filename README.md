@@ -1,7 +1,7 @@
 # IoT Accelerator Telemetry System / IoT-Beschleunigungs-Telemetriesystem / Sistema de Telemetría IoT para Acelerómetro
 
-| [Arquitectura-Red](./Arquitectura-Red) | [Firmware-ESP32](Firmware-ESP32) | [Node-RED-SQLite](Node-RED-SQLite) |
-| :------------------------------------: | :------------------------------: | :--------------------------------: |
+| [Arquitectura-Red](./Arquitectura-Red) | [Firmware-ESP32](./Firmware-ESP32) | [Node-RED-SQLite](./Node-RED-SQLite) |
+| :------------------------------------: | :--------------------------------: | :----------------------------------: |
 ## English
 
 ### Overview

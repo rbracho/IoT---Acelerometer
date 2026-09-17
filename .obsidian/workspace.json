@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Node-RED-SQLite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Node-RED-SQLite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Node-RED-SQLite.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -231,11 +231,11 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "8afe1e0ccccec044",
+  "active": "93dce18743c4499c",
   "lastOpenFiles": [
-    "Node-RED-SQLite.md",
-    "Arquitectura-Red.md",
+    "Firmware-ESP32.md",
     "README.md",
-    "Firmware-ESP32.md"
+    "Node-RED-SQLite.md",
+    "Arquitectura-Red.md"
   ]
 }

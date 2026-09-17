@@ -1,8 +1,8 @@
 
 ## ESP32 Firmware & JSON Payload / ESP32-Firmware & JSON-Nutzdaten / Firmware del ESP32 y Estructura JSON
 
-| [Arquitectura-Red](./Arquitectura-Red) | [Node-RED-SQLite](Node-RED-SQLite) | [README](README) |
-| :------------------------------------: | :--------------------------------: | ---------------- |
+| [Arquitectura-Red](./Arquitectura-Red) | [Node-RED-SQLite](./Node-RED-SQLite) | [README](./README) |
+| :------------------------------------: | :----------------------------------: | ------------------ |
 ## English
 
 ### Overview
