@@ -1,8 +1,8 @@
 
 # Node-RED Workflow, SQLite & CSV Export / Node-RED-Workflow, SQLite & CSV-Export / Flujo de Node-RED, SQLite y Exportación CSV
 
-| [[Arquitectura-Red]] | [[Firmware-ESP32]] | [[README]] |
-| :------------------: | :----------------: | ---------- |
+| [Arquitectura-Red](./Arquitectura-Red) | [Firmware-ESP32](Firmware-ESP32) | [README](README) |
+| :------------------------------------: | :------------------------------: | ---------------- |
 
 ## English
 
@@ -55,5 +55,3 @@ La tubería de datos del servidor combina **Node-RED** para el procesamiento de 
 - **Exportación CSV Unificada:** Integra una plantilla personalizada del lado del cliente que utiliza la memoria local y objetos Blob para generar y descargar un archivo CSV limpio bajo demanda con un solo clic.
 
 
-| [[Arquitectura-Red]] | [[Firmware-ESP32]] | [[README]] |
-| :------------------: | :----------------: | ---------- |

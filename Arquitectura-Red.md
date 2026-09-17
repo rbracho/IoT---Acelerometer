@@ -1,7 +1,7 @@
 # Network Architecture & Firewall / Netzwerkarchitektur & Firewall / Arquitectura de Red y Firewall
 
-| [[Firmware-ESP32]] | [[Node-RED-SQLite]] | [[README]] |
-| :----------------: | :-----------------: | ---------- |
+| [Firmware-ESP32](Firmware-ESP32) | [Node-RED-SQLite](Node-RED-SQLite) | [README](README) |
+| :------------------------------: | :--------------------------------: | ---------------- |
 
 ## English
 
@@ -48,5 +48,3 @@ La arquitectura de red aísla la infraestructura en la nube del hardware local y
 - **Aislamiento del Cliente:** El firewall de la laptop local no interfiere con el tráfico saliente ni con las sesiones de WebSocket, permitiendo una visualización multiusuario concurrente y segura.
 
 
-| [[Firmware-ESP32]] | [[Node-RED-SQLite]] | [[README]] |
-| :----------------: | :-----------------: | ---------- |

@@ -1,8 +1,8 @@
 
 ## ESP32 Firmware & JSON Payload / ESP32-Firmware & JSON-Nutzdaten / Firmware del ESP32 y Estructura JSON
 
-| [[Arquitectura-Red]] | [[Firmware-ESP32]] | [[Node-RED-SQLite]] | [[README]] |
-| :------------------: | :----------------: | :-----------------: | ---------- |
+| [Arquitectura-Red](./Arquitectura-Red) | [Node-RED-SQLite](Node-RED-SQLite) | [README](README) |
+| :------------------------------------: | :--------------------------------: | ---------------- |
 ## English
 
 ### Overview
@@ -48,5 +48,3 @@ El firmware que se ejecuta en el microcontrolador ESP32 es responsable de inicia
 - **Publicación MQTT:** Se conecta de forma segura al broker mediante TCP/IP y publica los datos en un tópico de telemetría específico.
 
 
-| [[Arquitectura-Red]] | [[Firmware-ESP32]] | [[Node-RED-SQLite]] | [[README]] |
-| :------------------: | :----------------: | :-----------------: | ---------- |

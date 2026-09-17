@@ -1,9 +1,7 @@
 # IoT Accelerator Telemetry System / IoT-Beschleunigungs-Telemetriesystem / Sistema de Telemetría IoT para Acelerómetro
 
-
-| [[Arquitectura-Red]] | [[Firmware-ESP32]] | [[Node-RED-SQLite]] |
-| :------------------: | :----------------: | :-----------------: |
-
+| [Arquitectura-Red](./Arquitectura-Red) | [Firmware-ESP32](Firmware-ESP32) | [Node-RED-SQLite](Node-RED-SQLite) |
+| :------------------------------------: | :------------------------------: | :--------------------------------: |
 ## English
 
 ### Overview
@@ -21,8 +19,17 @@ This project implements an end-to-end Industrial IoT architecture designed to ca
 - **Frontend:** Node-RED Dashboard 2.0 (Vue.js / HTML / CSS).
     
 - **Cloud Infrastructure:** DigitalOcean Droplet (Ubuntu) with secure firewall configurations (Ports 1883 & 1880).
-  
-  ## Deutsch
+
+### Documentation Index
+
+- [Network Architecture & Firewall](https://www.google.com/search?q=./Arquitectura-Red.md) — Security perimeter, DigitalOcean firewall rules, and ports 1883/1880.
+    
+- [ESP32 Firmware & JSON Payload](https://www.google.com/search?q=./Firmware-ESP32.md) — Hardware peripherals, sensor acquisition, and JSON serialization.
+    
+- [Node-RED Workflow, SQLite & CSV Export](https://www.google.com/search?q=./Node-RED-SQLite.md) — Event-driven flow processing, database persistence, and client-side web tools.
+
+---
+## Deutsch
 
 ### Übersicht
 
@@ -39,8 +46,16 @@ Dieses Projekt implementiert eine durchgängige Industrielle IoT-Architektur, di
 - **Frontend:** Node-RED Dashboard 2.0 (Vue.js / HTML / CSS).
     
 - **Cloud-Infrastruktur:** DigitalOcean Droplet (Ubuntu) mit sicheren Firewall-Konfigurationen (Ports 1883 & 1880).
-    
 
+### Dokumentationsindex
+
+- [Netzwerkarchitektur & Firewall](https://www.google.com/search?q=./Arquitectura-Red.md) — Sicherheitsperimeter, DigitalOcean-Firewall-Regeln und Ports 1883/1880.
+    
+- [ESP32-Firmware & JSON-Nutzdaten](https://www.google.com/search?q=./Firmware-ESP32.md) — Hardware-Peripherie, Datenerfassung und JSON-Serialisierung.
+    
+- [Node-RED-Workflow, SQLite & CSV-Export](https://www.google.com/search?q=./Node-RED-SQLite.md) — Ereignisgesteuerte Ablaufverarbeitung, Datenbankpersistenz und Client-seitige Web-Tools.
+
+---
 ## Español
 
 ### Resumen
@@ -59,9 +74,13 @@ Este proyecto implementa una arquitectura IoT industrial de extremo a extremo di
     
 - **Infraestructura Cloud:** DigitalOcean Droplet (Ubuntu) con configuraciones de firewall seguras (Puertos 1883 y 1880).
 
- 
-| [[Arquitectura-Red]] | [[Firmware-ESP32]] | [[Node-RED-SQLite]] |
-| :------------------: | :----------------: | :-----------------: |
+### Índice de Documentación
 
+- [Arquitectura de Red y Firewall](https://www.google.com/search?q=./Arquitectura-Red.md) — Perímetro de seguridad, reglas del firewall de DigitalOcean y puertos 1883/1880.
+    
+- [Firmware del ESP32 y Estructura JSON](https://www.google.com/search?q=./Firmware-ESP32.md) — Periféricos de hardware, adquisición de sensores y serialización JSON.
+    
+- [Flujo de Node-RED, SQLite y Exportación CSV](https://www.google.com/search?q=./Node-RED-SQLite.md) — Procesamiento de flujos orientados a eventos, persistencia en base de datos y herramientas web del lado del cliente.
+ 
 
 
